@@ -1,0 +1,10 @@
+pimux
+uuid
+requests
+mysql-connector-python
+streamlit
+pandas
+folium
+plotly
+numpy
+matplotlib
