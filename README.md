@@ -51,7 +51,7 @@ streamlit run app.py
 
 __[Presentation Slides](https://www.canva.com/design/DAGZIwU6K60/F_OpfniD33oD-INeUsfS8g/view?utm_content=DAGZIwU6K60&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h22ea957d8f)__
 
-__[Final Project Video]()__
+__[Final Project Video](https://youtu.be/veGvABBuY-8)__
 ## Authors
 
 - [@Ravish Kamath](https://github.com/RavishKamathStats)
