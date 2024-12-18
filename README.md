@@ -1,4 +1,5 @@
 # Drive Pulse 
+![thumbnail](https://github.com/user-attachments/assets/58c7e5b1-9496-4c80-89c2-6db49cda360f)
 
 **Team MRS**
 ## Installation
@@ -8,6 +9,7 @@
 - Install termux app through any android marketplace store. Once the application is downloaded, open the app and run the following commands:
 
 ```bash
+
 apt update
 apt upgrade
 ```
