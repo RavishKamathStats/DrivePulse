@@ -56,3 +56,4 @@ __[Final Project Video](https://youtu.be/veGvABBuY-8)__
 
 - [@Ravish Kamath](https://github.com/RavishKamathStats)
 
+- [@Shruti](https://github.com/shrutiir)
